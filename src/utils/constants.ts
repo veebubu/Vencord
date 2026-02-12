@@ -447,7 +447,7 @@ export const Devs = /* #__PURE__*/ Object.freeze({
     },
     nin0dev: {
         name: "nin0dev",
-        id: 886685857560539176n
+        id: 1395533040914141235n
     },
     Elvyra: {
         name: "Elvyra",
